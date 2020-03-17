@@ -23,10 +23,10 @@ There are basically <b> two </b> types of user.One is <b>Doctor</b> other is <b>
 ### For Java
 * [JDBC library](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) -For database
 * [XAMPP](https://www.apachefriends.org/download.html)  -Used as localhost
-* [JAVA Netbeans]
+* [JAVA Netbeans] (https://netbeans.apache.org/download/)
 
 ### For C#
-* [Visual Studio]
-* [SQL Server]
+* [Visual Studio](https://visualstudio.microsoft.com/)
+* [SQL Server] (https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 
